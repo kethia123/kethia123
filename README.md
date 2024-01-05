@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 My name is Kayigire Ngabire Kethia, and I am a student 🌱 of Computer Engineering at Rwanda Coding Academy in Nyabihu.
+😄 My name is Kayigire Ngabire Kethia, and I am a graduate student of Software Engineering and Embedded Systems at Rwanda Coding Academy in Nyabihu.
 
-🔭 I am currently specializing in Front End Web Development and Designing in Figma, though not a professional one as I am improving from time to time. I learned HTML, CSS Javascript, Angular, C++, Java. 
+🔭 I am currently specializing in Front End Web Development and design in Figma, though not a professional one, as I am improving from time to time. I learned HTML, CSS, Javascript, Angular, C++, and Java. 
 
-🌱 Currently, I have been learning React and improving my designs. I also hope to be able to enhance my skills in the mean time by challenging myself to different coding exercises and programs.
+🌱 Currently, I have been learning React and improving my designs. I also hope to be able to enhance my skills in the meantime by challenging myself with different coding exercises and programs.
 
-⚡Outside the technology, I like spending time reading books and trying new skills such as drawing. I also get time to get in touch with friends and family. I am really enthusiastic about studying programming. I hope to improve more in this domain of programming through out the journey.
+⚡Outside technology, I like spending time reading books and trying new skills such as drawing. I also get time to get in touch with friends and family. I am really enthusiastic about studying programming. I hope to improve more in this domain of programming throughout the journey.
